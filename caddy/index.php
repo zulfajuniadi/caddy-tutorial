@@ -1,3 +1,3 @@
 <?php
 
-echo 'boo!';
+echo 'test webpush';
